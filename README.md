@@ -96,3 +96,5 @@ Create multiple pages
 Pranay Jadhao
 Aspiring Software Engineer
 Final Year Student – Electronics & Telecommunication
+<img width="1919" height="819" alt="Screenshot 2026-01-22 180204" src="https://github.com/user-attachments/assets/8fef044d-e57f-433e-84d6-221bb6e72d53" />
+
