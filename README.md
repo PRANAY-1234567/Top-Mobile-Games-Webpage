@@ -101,4 +101,3 @@ Final Year Student – Electronics & Telecommunication
 
 <img width="1891" height="867" alt="Screenshot 2026-01-22 180333" src="https://github.com/user-attachments/assets/998a063f-feb7-41a7-8d36-0b102a0b207c" />
 
-
