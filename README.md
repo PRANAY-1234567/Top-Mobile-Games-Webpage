@@ -7,11 +7,8 @@ Each game is shown in a numbered list (1–10) along with its image and basic in
 A background image is added to enhance the visual appearance of the webpage.
 
 This project is suitable for:
-
 College assignments
-
 HTML & CSS practice
-
 Beginner web development learning
 
 🛠️ Technologies Used
